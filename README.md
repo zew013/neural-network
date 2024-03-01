@@ -1,6 +1,5 @@
 # Image Classification with Multi-layer Perceptron
-
-This is the code for the second PA of CSE151B. The goal of this PA is to implement the multiple-layer perceptron for image classification. 
+Implemented a Neural Network function in Python and coded Backpropation, Mini-Batch Gradient Descent, Cross Validation with NumPy from scratch. Added Early Stopping, Momentum, L1 & L2 Regularization to improve the model. Did experiments using sigmoid, tanh, ReLU, softmax as activation functions.
 The code is written in Python 3.10 and tested on Mac OS X 10.12.6 and Windows 10.
 With default configuration, the code works pretty well with around 44% accuracy, and even better for manually choosing hyperparameters with around 0.4908.
 ## Code Structure
