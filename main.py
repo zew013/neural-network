@@ -1,8 +1,4 @@
-################################################################################
-# CSE 151B: Programming Assignment 2
-# Fall 2022
-# Code by Chaitanya Animesh & Shreyas Anantha Ramaprasad
-################################################################################
+
 # To install PyYaml, refer to the instructions for your system:
 # https://pyyaml.org/wiki/PyYAMLDocumentation
 ################################################################################
