@@ -1,5 +1,5 @@
 --- !Config
-# This specifies the number of layers and number of hidden neurons in each layer.
+# This spodcifies the number of layers and number of hidden neurons in each layer.
 # Note that the first and the last elements of the list indicate the input and
 # output sizes
 layer_specs: [3072, 128, 10]  #Represents a 2 layer NN. 3072 is the input layer
@@ -24,9 +24,9 @@ early_stop_epoch: 5
 
 
 # Regularization
-regularization_type: False # L1, L2, False
+regularization_type: L2
 # Regularization constant
-regularization_lambda: 0.01
+regularization_lambda: 0
 
 
 # Use momentum for training

@@ -24,7 +24,7 @@ early_stop_epoch: 5
 
 
 # Regularization
-regularization_type: False # L1, L2, False
+regularization_type: "L2" # L1, L2, False
 # Regularization constant
 regularization_lambda: 0.01
 

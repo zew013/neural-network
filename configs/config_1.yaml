@@ -24,13 +24,13 @@ early_stop_epoch: 5
 
 
 # Regularization
-regularization_type: False # L1, L2, False
-# Regularization constant
+regularization_type: "L2"
 regularization_lambda: 0.01
 
 
 # Use momentum for training
 momentum: True
+
 # Value for the parameter 'gamma' in momentum
 momentum_gamma: 0.9
 
